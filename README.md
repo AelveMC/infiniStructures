@@ -1,4 +1,4 @@
-# infiniStructures for Minecraft 1.16
+# infiniStructures Custom Dimensions for Minecraft 1.16
 Adds two dimensions where structures spawn very often.
 These are supposed to be accessed as late-game objecives, and complements my other survival datapack.
 
