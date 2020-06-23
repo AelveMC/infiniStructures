@@ -8,3 +8,5 @@ Each dimension requires its own portal type. Each portal is in the traditional n
 - "infiniworld" requires Diamond Blocks.
 - "infininether" requires Netherite Blocks.
 
+Unlike normal nether portals, you will always be teleporting to 0,0 in the new dimensions. To return to the overworld you must go back through the end portal located at 0,0 and travel through the end. It is advised that the Enderdragon be killed beforehand.
+
