@@ -1,8 +1,9 @@
 # infiniStructures Custom Dimensions for Minecraft 1.16
 Adds two dimensions where structures spawn very often.
-These are supposed to be accessed as late-game objecives, and complements my other survival datapack.
+These are supposed to be accessed as late-game objecives, and complements my other survival datapack; Enhanced Survival
 
 Warning: Custom dimensions are still experimental. This datapack may break at any time.
+This should also not be used by weak computers.
 
 Each dimension requires its own portal type. Each portal is in the traditional nether portal shape (corners optional) filled with glass panes. Glass panes can be of any colour.
 - "infiniworld" requires Diamond Blocks.
