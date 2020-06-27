@@ -2,6 +2,10 @@
 # Called by dim/functions/inside.mcfunction
 # Sets an end portal as the way to get back to the overworld
 
+# Find player later
+team add teleport
+team join teleport
+
 execute in infini:infiniworld run tp 0 66 -3
 
 # Set space
@@ -25,4 +29,6 @@ execute in infini:infiniworld run setblock -2 65 -2 minecraft:bedrock
 
 # Fill portal
 execute in infini:infiniworld run fill -2 65 -2 2 65 2 minecraft:end_portal replace air
+
+schedule function dim:tp_centre_world 1t
 
