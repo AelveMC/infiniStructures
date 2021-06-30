@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Dark Prismarine Portal",
+        "description": ["",{"text":"Travel to a dimenson with","color":"gold"},{"text":" overworld ","color":"yellow"},{"text":"structures.","color":"gold"}],
+        "icon": {
+            "item": "minecraft:dark_prismarine"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:infdim/infinistructures",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Crying Obsidian Portal",
+        "description": ["",{"text":"Travel to a dimenson with","color":"gold"},{"text":" nether ","color":"yellow"},{"text":"structures.","color":"gold"}],
+        "icon": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:infdim/infinistructures",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

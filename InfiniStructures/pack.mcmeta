@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": [
+            "Structure-filled Dimensions!",
+            "\n",
+            {
+                "text": "By Aelve for 1.17",
+                "color": "#40e0d0"
+            }
+        ]
+    },
+    "video_link": "",
+    "wiki_link": "https://github.com/AelveMC/infiniStructures/wiki",
+    "credits": {
+        "Creator": [
+            [
+                "Aelve",
+                "https://www.planetminecraft.com/member/aelve/"
+            ]
+        ]
+    }
+}

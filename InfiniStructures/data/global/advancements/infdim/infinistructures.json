@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "InfiniStructures",
+        "description": ["",{"text":"Use custom nether portals to travel to dimensions with increased structure generation.","color":"gold"}],
+        "icon": {
+            "item": "minecraft:structure_block"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:aelve",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
+{'text':'','color':'gold'}

@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:flint_and_steel"
+          ]
+        },
+        "location": {
+          "dimension": "minecraft:overworld",
+          "block": {
+            "blocks": [
+              "minecraft:crying_obsidian"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "portal:portal_crying_obsidian/start"
+  }
+}

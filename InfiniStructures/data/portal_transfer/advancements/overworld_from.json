@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "example": {
+      "trigger": "minecraft:enter_block",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "dimension": "minecraft:overworld"
+            }
+          }
+        ],
+        "block": "minecraft:nether_portal"
+      }
+    }
+  },
+  "rewards": {
+    "function": "portal_transfer:overworld_portals"
+  }
+}
